@@ -303,7 +303,7 @@ msgstr "Induljon el bejelentkezéskor"
 #: ../../NetDriveUI/flatsettingcontents.ui:67
 msgctxt "FlatSettingContents|"
 msgid "Launch Windows Explorer when newly connected to a remote storage."
-msgstr "Fájlkezelő megnyitása amikor újonan csatlakozik a távoli meghajtóhoz"
+msgstr "Fájlkezelő megnyitása amikor újonnan csatlakozik a távoli meghajtóhoz"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:77
 msgctxt "FlatSettingContents|"
@@ -1184,7 +1184,7 @@ msgstr "CSATOLVA"
 #: ../../NetDriveUI/qdriveitem.cpp:1047
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
-msgstr "LECSATOLVA"
+msgstr "LECSATOL"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1053
 msgctxt "QDriveItem|"
