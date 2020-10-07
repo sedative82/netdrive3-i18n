@@ -1614,7 +1614,7 @@ msgstr "CSATOLVA"
 #: ../../NetDriveUI/qdriveitem.cpp:1448
 msgctxt "QDriveItem|"
 msgid "DISCONNECT"
-msgstr "LECSATOLVA"
+msgstr "LECSATOL"
 
 #: ../../NetDriveUI/qdriveitem.cpp:1454
 msgctxt "QDriveItem|"
